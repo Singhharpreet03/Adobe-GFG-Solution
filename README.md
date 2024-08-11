@@ -2,11 +2,11 @@
 
 This solution is submitted by ByteSquadron
 Team members are:
-Harpreet Singh
-Gurpreet Singh
-Rashmeet Singh
+Harpreet Singh,
+Gurpreet Singh,
+Rashmeet Singh.
 
-The solution description is as follows:
+##The solution description is as follows:
 
 Geometric Shape Detection and Regularization:
 
