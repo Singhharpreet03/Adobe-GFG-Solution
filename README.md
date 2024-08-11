@@ -6,7 +6,7 @@ Harpreet Singh,
 Gurpreet Singh,
 Rashmeet Singh.
 
-#The solution description is as follows:
+The solution description is as follows:
 
 Geometric Shape Detection and Regularization:
 
